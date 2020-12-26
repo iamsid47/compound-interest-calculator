@@ -2,18 +2,24 @@
 name: 'Compound Interest Calculator'
 description: 'This is a compound interest calculator made using Python'
 author: '@iamsid47'
-img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
+img: https://github.com/iamsid47/hangman-pics/blob/main/cic%20-%20%20main.png
 ---
 
-*Hi Everyone! In this workshop, we will walkthrough how to build the game: ***Compound Interest Calculator!**** 
+![Compound Interest Calculator](https://github.com/iamsid47/hangman-pics/blob/main/cic%20-%20%20main.png)
+
+Hi Everyone! In this workshop, we are gonna build a **Compound Interest Calculator!**
 
 This will be a command line calculator which will ask for inputs, do the math for us and then give us the calculated output.
+
+You can out this project on Repl.it by clicking [THIS](https://repl.it/@iamsid47/compound-interest-calculator#main.py) link.
 
 # Files & Libraries Required
 
 There is gonna be just one file named as `main.py` and nothing else. Also, no libraries are required to run this program!
 
 ## Let's Get Started!
+
+![Create a repl](https://github.com/iamsid47/hangman-pics/blob/main/cic%20-%20repl.png)
 
 So, let's head over to [Repl.it](https://repl.it) and create a new *repl*. Choose Python as the language and the the name of your project.
 
@@ -84,6 +90,8 @@ print("This is how much money you would have in your account after {} year:  ".f
 
 ## Voila! You did it!
 
+![you did it](https://media.giphy.com/media/fHo4wMUPwVFzmQn4UU/giphy.gif)
+
 You just built your own compound interest calculator! 
 
 ## Hack It ;)
@@ -93,3 +101,7 @@ Furthermore, you can add in some more deeper values to this calculator. For exam
 You can also host this calculator and make your own API for it. Later on, if you are on a project which requires a compound interest calculation, you can use this tool!
 
 It is also possible to make app using this. The only tweak will be that instead of just a single country's calculator. You can make a single calculator for all the countries and define the changes automatically when the user selects a country!
+
+## How it looks?
+
+![how it works](https://github.com/iamsid47/hangman-pics/blob/main/cic%20-%20how%20it%20works.png)
